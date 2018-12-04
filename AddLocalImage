@@ -1,0 +1,2 @@
+<Image style={styles.welcome}
+          source={require('./review.png')} />
